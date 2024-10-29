@@ -58,7 +58,7 @@ config.keys = {
 
 
 -- For example, changing the color scheme:
-config.color_scheme = 'OceanicMaterial'
+config.color_scheme = 'Purpledream (base16)'
 config.font = wezterm.font 'MesloLGS NF'
 config.window_background_opacity = 0.98
 config.text_background_opacity = 1
